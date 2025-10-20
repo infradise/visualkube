@@ -1,3 +1,5 @@
+<img width="1024" height="489" alt="image" src="https://github.com/user-attachments/assets/942e6cbb-6715-48b6-8b54-ada38ababb64" />
+
 # Visualkube
 
 Visualkube redefines the Kubernetes dashboard. 
@@ -5,7 +7,6 @@ Designed for both individuals and teams, it streamlines secure, real-time cluste
 It also offers collaborative capabilities tailored for cloud-native teams.  
 
 Visualkube works everywhere you do—on Web, Browser Extension, Mobile, and Desktop—and integrates seamlessly with your favorite IDEs, including Visual Studio Code, Eclipse Theia IDE, WindSurf IDE, Trae IDE, Anysphere Cursor, Android Studio, and the full JetBrains suite.
-
 
 ## Features
 
