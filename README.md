@@ -61,6 +61,7 @@ Here you'll find additional platforms supported by Visualkube. Simply click the 
 
 ## Reporting Issues
 
-Found an issue? Please use the form in the our [Bug Reporting](https://www.visualkube.com/contact/bug-reporting) page.
+Found an issue? Please use the form in our [Bug Reporting](https://www.visualkube.com/contact/bug-reporting) page.  
+⚠️ The submission function on this page is temporarily disabled. Please use our [GitHub Issues](https://github.com/infradise/visualkube/issues) page instead.
 
 For highly technical reports, we recommend using our [GitHub Issues](https://github.com/infradise/visualkube/issues) page.
