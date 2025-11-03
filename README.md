@@ -25,7 +25,7 @@ Kubernetes, Reimagined - Everything You Need for Seamless Cluster Management
 | Collaboration      | Conflict-Free, Team Management, Seat, Audit logs, Workflow-Based Approvals                                                               |
 | Authentication     | MFA, Secure Passwordless OTP Sign-in, Easy Sign-in for Fast Access, Stay Logged In, Advanced security (SSO)                              |
 | Interface          | Adaptivity & Consistency, Effortless learning curve                                                                                      |
-| IDE Integrations   | Visual Studio Code, Eclipse Theia IDE, WindSurf IDE, Trae IDE, Cursor IDE, Android Studio, IntelliJ IDEA, PyCharm, JetBrains Gateway, DataGrip, RubyMine, GoLand, WebStorm, PhpStorm, RustRover, CLion, Rider, DataSpell, MPS |
+| IDE Integrations   | Visual Studio Code, VSCodium, Eclipse Theia IDE, WindSurf IDE, Trae IDE, Cursor IDE, Android Studio, IntelliJ IDEA, PyCharm, JetBrains Gateway, DataGrip, RubyMine, GoLand, WebStorm, PhpStorm, RustRover, CLion, Rider, DataSpell, MPS |
 | Browser Extension  | Chrome, Safari, Edge, Firefox, Brave, Aloha, Vivaldi                                                                                     |
 | Universal platform | Web, Browser Extension, IDE Integration, Moble, Desktop, Native Apps for Every Platform, ARM64 & x86_64 Native Support                   |
 
