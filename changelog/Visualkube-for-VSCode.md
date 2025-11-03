@@ -16,13 +16,13 @@ All notable changes to "Visualkube for VS Code" will be documented in this file.
 
 ## 1.0.7 (25.10.04)
 ### Universal
-- Fixed broken `Reset State for Testing` functionality  
-  (triggering the command resulted in `command 'visualkube.resetState' not found)
+- Fixed broken "Reset State for Testing" functionality  
+  (triggering the command resulted in "command 'visualkube.resetState' not found")
 
 ### Universal / Web
-- Added the `RUNTIME CONTEXT` section to indicate whether the runtime is Universal or Web
-- Renamed the section `DASHBOARD` to `CONTROLLER`
-- Renamed the menu item `Reset State for Testing` to `Reset State`
+- Added the "RUNTIME CONTEXT" section to indicate whether the runtime is Universal or Web
+- Renamed the section "DASHBOARD" to "CONTROLLER"
+- Renamed the menu item "Reset State for Testing" to "Reset State"
 - Removed the All Platforms Guide
 - Removed the Help and Feedback section
 
