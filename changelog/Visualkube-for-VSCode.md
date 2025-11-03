@@ -27,7 +27,7 @@ All notable changes to "Visualkube for VS Code" will be documented in this file.
 - Removed the Help and Feedback section
 
 ## 1.0.6 (25.09.26)
-- Fixed issue where the error "'configuration.icons.description' must be defined and can not be empty" appeared (#171)
+- Fixed issue where the error "'configuration.icons.description' must be defined and can not be empty" appeared (#DEV-171)
 - Updated URL path links to reflect changed routes
 - Removed "What's New" section items
 
