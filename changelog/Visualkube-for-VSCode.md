@@ -5,6 +5,7 @@ All notable changes to "Visualkube for VS Code" will be documented in this file.
 > Visual Studio Code, VSCodium, Eclipse Theia IDE, WindSurf IDE, Trae IDE, Cursor IDE
 
 - [Change Log](#change-log)
+  - [1.1.0](#110-251103)
   - [1.0.7](#107-251004)
   - [1.0.6](#106-250926)
   - [1.0.5](#105-250908)
@@ -13,6 +14,9 @@ All notable changes to "Visualkube for VS Code" will be documented in this file.
   - [1.0.2](#102-250902)
   - [1.0.1](#101-250901)
   - [1.0.0](#100-250901)
+
+## 1.1.0 (25.11.03)
+- Bumped Visualkube engine 5.9.1 (Build 2426) to **5.10.31 (Build 2428)**.
 
 ## 1.0.7 (25.10.04)
 ### Universal
