@@ -17,6 +17,9 @@ All notable changes to "Visualkube for VS Code" will be documented in this file.
 
 ## 1.1.0 (25.11.03)
 - Bumped Visualkube engine 5.9.1 (Build 2426) to **5.10.31 (Build 2428)**.
+- ⚠️ Due to major structural changes (supporting guest mode for Community Edition),
+  the release of version 1.1.0 has been **temporarily postponed**.
+  It will be published once the changes are stabilized.
 
 ## 1.0.7 (25.10.04)
 ### Universal
