@@ -5,13 +5,14 @@
 Visualkube offers three streamlined plans—Free, Free Plus, and Premium.  
 The table below summarizes which platforms are supported under each plan, making it easy to compare at a glance.
 
-|                   | Free  | Free Plus | Premium |
+|                   | Local |   Cloud   |  Cloud  |
 |-------------------|:-----:|:---------:|:-------:|
-| Desktop           | O     | O         | O       |
-| Mobile            | O     | O         | O       |
-| Web               | X     | O         | O       |
-| IDE               | X     | O         | O       |
-| Browser Extension | X     | O         | O       |
+|                   | Free  | Free Plus | Premium |
+| Desktop           |   O   |     O     |    O    |
+| Mobile            |   O   |     O     |    O    |
+| Web               |   X   |     O     |    O    |
+| IDE               |   X   |     O     |    O    |
+| Browser Extension |   X   |     O     |    O    |
 
 ---
 
