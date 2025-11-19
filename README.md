@@ -25,7 +25,7 @@ Kubernetes, Reimagined - Everything You Need for Seamless Cluster Management
 | Collaboration      | Conflict-Free, Team Management, Seat, Audit logs, Workflow-Based Approvals                                                               |
 | Authentication     | MFA, Secure Passwordless OTP Sign-in, Easy Sign-in for Fast Access, Stay Logged In, Advanced security (SSO)                              |
 | Interface          | Adaptivity & Consistency, Effortless learning curve                                                                                      |
-| IDE Integrations   | **VS Code-based IDEs**: Visual Studio Code, VSCodium, Eclipse Theia, WindSurf, Trae, Cursor<br>**JetBrains IDEs**: Android Studio, IntelliJ IDEA, PyCharm, JetBrains Gateway, DataGrip, RubyMine, GoLand, WebStorm, PhpStorm, RustRover, CLion, Rider, DataSpell, MPS |
+| IDE Integrations   | **VS Code-based IDEs**: Visual Studio Code, VSCodium, Eclipse Theia, Google Antigravity, WindSurf, Trae, Cursor<br>**JetBrains IDEs**: Android Studio, IntelliJ IDEA, PyCharm, JetBrains Gateway, DataGrip, RubyMine, GoLand, WebStorm, PhpStorm, RustRover, CLion, Rider, DataSpell, MPS |
 | Browser Extension  | Chrome, Safari, Edge, Firefox, Brave, Aloha, Vivaldi                                                                                     |
 | Universal platform | Web, Browser Extension, IDE Integration, Moble, Desktop, Native Apps for Every Platform, ARM64 & x86_64 Native Support                   |
 
@@ -92,7 +92,7 @@ Whether you use VS Code, JetBrains, or other supported environments, the table s
 | [IDE Integration](https://www.visualkube.com/download/extension_plugin) | [Visual Studio Code](https://www.visualkube.com/download/extension_plugin/vscode) | yes | yes |
 | | VSCodium (https://vscodium.com) | yes | yes |
 | | [Eclipse Theia IDE](https://www.visualkube.com/download/extension_plugin/theia) | yes | yes |
-| | Antigravity (https://antigravity.google) | yes | yes |
+| | Google Antigravity (https://antigravity.google) | yes | yes |
 | | [WindSurf IDE](https://www.visualkube.com/download/extension_plugin/windsurf) | yes | yes |
 | | [Trae IDE](https://www.visualkube.com/download/extension_plugin/trae) | yes | yes |
 | | [Cursor IDE](https://www.visualkube.com/download/extension_plugin/cursor) | yes | yes |

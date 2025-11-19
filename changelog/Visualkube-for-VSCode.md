@@ -2,7 +2,7 @@
 
 All notable changes to "Visualkube for VS Code" will be documented in this file.  
 > This changelog also includes updates related to the following IDEs:  
-> Visual Studio Code, VSCodium, Eclipse Theia, Antigravity, WindSurf, Trae, Cursor
+> Visual Studio Code, VSCodium, Eclipse Theia, Google Antigravity, WindSurf, Trae, Cursor
 
 - [Change Log](#change-log)
   - [1.1.0](#110-251103)
