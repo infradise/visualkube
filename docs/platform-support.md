@@ -57,6 +57,7 @@ Whether you use VS Code, JetBrains, or other supported environments, the table s
 | [IDE Integration](https://www.visualkube.com/download/extension_plugin) | [Visual Studio Code](https://www.visualkube.com/download/extension_plugin/vscode) | yes | yes |
 | | VSCodium (https://vscodium.com) | yes | yes |
 | | [Eclipse Theia IDE](https://www.visualkube.com/download/extension_plugin/theia) | yes | yes |
+| | Antigravity (https://antigravity.google) | yes | yes |
 | | [WindSurf IDE](https://www.visualkube.com/download/extension_plugin/windsurf) | yes | yes |
 | | [Trae IDE](https://www.visualkube.com/download/extension_plugin/trae) | yes | yes |
 | | [Cursor IDE](https://www.visualkube.com/download/extension_plugin/cursor) | yes | yes |
