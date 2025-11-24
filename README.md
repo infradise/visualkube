@@ -131,3 +131,16 @@ Found an issue? Please use the form in our [Bug Reporting](https://www.visualkub
 ⚠️ The submission function on this page is temporarily disabled. Please use our [GitHub Issues](https://github.com/infradise/visualkube/issues) page instead.
 
 For highly technical reports, we recommend using our [GitHub Issues](https://github.com/infradise/visualkube/issues) page.
+
+---
+
+## Legal Notices
+
+© 2025 Infradise Inc. All rights reserved.  
+
+**Visualkube**, **Visualkube Master**, and **Visualkube Jet** are products of Infradise Inc.  
+
+We are **not affiliated with** The Linux Foundation, Microsoft Corporation, or JetBrains s.r.o.  
+
+All other trademarks cited herein are the property of their respective owners.  
+For full legal details and a comprehensive list of third-party trademarks, please visit our [Legal Notices](https://www.visualkube.com/legal-notice).
